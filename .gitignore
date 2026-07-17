@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model artifacts
+models/*.pkl
+
+# Data and logs
+*.log
+*.csv~
+
+# OS files
+.DS_Store
+Thumbs.db
