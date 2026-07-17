@@ -1,0 +1,16 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)" />
+  <circle cx="980" cy="100" r="120" fill="#ffffff" opacity="0.14" />
+  <circle cx="170" cy="280" r="90" fill="#ffffff" opacity="0.12" />
+  <rect x="90" y="90" width="450" height="180" rx="22" fill="#ffffff" opacity="0.15" />
+  <text x="130" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff">Fake News Detection</text>
+  <text x="130" y="205" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#e0f2fe">AI-powered text analysis with Flask and Machine Learning</text>
+  <text x="130" y="245" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#bfdbfe">Detect misleading content in seconds</text>
+</svg>
