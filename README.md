@@ -58,3 +58,15 @@ You can paste text such as:
 - Includes a GitHub Actions workflow for basic CI
 - Includes a `.gitignore` file for Python projects
 - Ready to be pushed to GitHub as a public or private repository
+
+## 🖼️ Screenshots
+
+Below are sample outputs from the web UI for a real and a fake prediction. Save the corresponding screenshots to `images/real_prediction.png` and `images/fake_prediction.png` so they display here.
+
+![Real prediction](images/real.png)
+
+*Prediction: Real — Confidence: 43.76% (Real Probability: 56.24% — Fake Probability: 43.76%)*
+
+![Fake prediction](images/fake.png)
+
+*Prediction: Fake — Confidence: 56.05% (Real Probability: 43.95% — Fake Probability: 56.05%)*
